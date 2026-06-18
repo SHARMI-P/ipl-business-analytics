@@ -40,7 +40,7 @@ This project analyses **16 seasons of IPL data (2008–2024)** across **900+ mat
 ### 🌐 Streamlit Interactive Dashboard
 > Filter by team, season, and drill into any analysis section
 
-![Streamlit Dashboard](assets/powerbi_preview.png)
+![Streamlit Dashboard](assets/appdemo1.png)
 
 ### 📊 Power BI Executive Dashboard
 > Built for business stakeholders — slicers, KPI cards, trend lines
